@@ -1,7 +1,6 @@
-#include <assert.h>
-
 #include "SpawnManager.h"
 #include "ROSIntegrationCore.h"
+#include <assert.h>
 
 USpawnManager::USpawnManager()
 {
